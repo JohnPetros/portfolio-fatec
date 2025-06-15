@@ -31,7 +31,7 @@ Cliente: [Alfred Makoto Kabayama - Professor da Fatec](https://www.linkedin.com/
 
 O Smart Farming é uma aplicação web desenvolvida para auxiliar o monitoramento de estufa inteligente mantida pela Fatec de São José dos Campos. Seu objetivo é simplificar a gestão, fornecendo ferramentas para a coleta e visualização de dados de sensores (como temperatura, umidade e pH), a execução de check-lists de manutenção, a geração de relatórios detalhados e o controle de acesso administrativo. Isso permite uma gestão mais eficiente e automatizada do ambiente agrícola controlado.
 
-#### Principais funcionalidades
+### Principais funcionalidades
 
 O aplicativo foi estruturado em três funcionalidades principais para atender aos objetivos propostos: 
 - Gerenciamento de Sensores
@@ -70,7 +70,7 @@ Por fim, no Gerenciamento de Plantas, o usuário pode administrar todas as plant
 
 <img src="./images/smart-farming/checklist-records-dashboard-page.png" width="1000" height="500">
 
-#### Tecnologias utilizadas
+### Tecnologias utilizadas
 
 - [Flask](https://flask.palletsprojects.com/en/stable/): Framework escolhido para o desenvolvimento do servidor da aplicação (backend).
 - [Docker](https://www.docker.com/): Essencial para a conteinerização do servidor e do banco de dados, facilitando a gestão do ambiente e a implantação.
@@ -79,7 +79,7 @@ HTML: Utilizado na estruturação dos templates da interface web.
 - [ApexCharts](https://apexcharts.com/): Biblioteca implementada para a criação dos gráficos interativos presentes no dashboard.
 - [Figma](https://www.figma.com/pt-br/): Ferramenta utilizada para o desenvolvimento e a prototipagem das wireframes do projeto.
 
-#### Contribuições pessoais
+### Contribuições pessoais
 
 Como Product Owner no projeto SmartFarming, atuei como o elo entre o time de desenvolvimento e o cliente, desempenhando uma série de responsabilidades-chave, como:
 
@@ -95,18 +95,18 @@ Além disso, por ter maior experiência de desenvolvimento na equipe fui respons
 - Realizar revisões de código (code reviews) para assegurar que os padrões de qualidade sejam seguidos, identificar problemas, promover boas práticas de desenvolvimento e incentivar a consistência do código.
 - Resolver desafios técnicos mais complexos, podendo destacar a integração entre o sistema web desenvolvido por nós e uma placa ESP32 para a tranferência contínua e automática de dados entre a estufa inteligente e a nossa aplicação, sendo este o maior desafio do projeto.
 
-#### Lições Aprendidas
+### Lições Aprendidas
 
 Neste semestre, aprendi duas lições cruciais: a primeira é que trabalhar em equipe com boa organização é muito mais eficaz do que tentar resolver tudo sozinho, pois a combinação de ideias e experiências diversas não só acelera a resolução de problemas, mas também gera soluções mais eficientes e inovadoras; a segunda é que ensinar outras pessoas solidifica e torna o próprio aprendizado muito mais eficiente, reforçando o conhecimento e revelando lacunas.
 
-#### Hard Skills Desenvolvidas
+### Hard Skills Desenvolvidas
 
 Este semestre pude finalmente aplicar, de forma profissional, Python na construção de um sistema web monolítico. Consegui consolidar meus conhecimentos sobre separação de responsabilidades, um conceito arquitetural básico que me ajudou a criar um código mais limpo e fácil de manter.
 Aprendi que a containerização com Docker é uma ferramenta essencial para mim, pois garante que o ambiente de desenvolvimento seja eficiente e independentes das configurações de máquina. 
 Além disso, explorei ferramentas de infraestrutura da AWS, como o EC2 (Elastic Compute Cloud), que me permitiu provisionar e gerenciar máquinas virtuais na nuvem para hospedar a aplicação, e o RDS (Relational Database Service), que simplificou a configuração e manutenção do banco de dados relacional, automatizando tarefas como backups. Dessa forma, aprendi a construir um ambiente de produção robusto para uma aplicação web em Python e com load balancer, usando Gunicorn e Nginx. 
 Para completar, tive a oportunidade de usar HTMX e HyperScript, ferramentas muito pouco conhecidas no mercado, para criar atualizações rápidas em páginas HTML estáticas, sem a complexidade de grandes frameworks JavaScript. 
 
-#### Soft Skills Desenvolvidas
+### Soft Skills Desenvolvidas
 
 Antes eu possuía muita dificuldade em trabalhar em equipe, pois eu, tendo comumente mais experiência que os demais, preferia fazer a maior parte, somente do meu jeito e sem deixar os outros colaborarem, por achar que não poderiam fazer da mesma forma que eu. Porém, aprendi que isso é totalmente errado, pois é melhor ter uma equipe engajada e capacitada, onde todos contribuem com suas perspectivas e habilidades, do que uma única pessoa sobrecarregada e com uma visão limitada, que impede o crescimento coletivo e a inovação do projeto. Portanto, a partir desse semestre procurei ativamente em ouvir mais as pessoas, deixar que elas expressassem suas ideias, delegar responsabilidades e, principalmente, confiar no potencial de cada um para buscar soluções e aprender com os próprios desafios. Percebi que o resultado final não só se tornou mais rico e diversificado, mas o ambiente de trabalho ficou muito mais colaborativo e produtivo para todos.
 Além disso, melhorei minha habilidade de comunicação principalmente no tocante a apresentar ideias e convencer pessoas. Aprendi a estruturar meus argumentos de forma mais lógica, a antecipar objeções e a adaptar minha mensagem ao público, o que me permitiu influenciar decisões e garantir que minhas propostas fossem não só compreendidas, mas também aceitas e implementadas com sucesso.
@@ -127,11 +127,11 @@ Cliente: [Claúdio Etevino de Lima - Professor da Fatec](https://www.linkedin.co
 
 O Stocker é uma aplicação web moderna, projetada para revolucionar o gerenciamento de estoque. Ele oferece funcionalidades completas para o controle de produtos, permitindo a adição, edição e remoção de itens com facilidade. Com o Stocker, você obtém visualização e acompanhamento em tempo real das quantidades e detalhes do seu inventário, substituindo métodos manuais por uma solução tecnológica altamente eficiente. Sua interface intuitiva possibilita o monitoramento do estoque em qualquer tipo de negócio, otimizando a gestão de reposição e capacitando decisões estratégicas mais assertivas.
 
-#### Principais funcionalidades
+### Principais funcionalidades
 
 O Stocker oferece uma solução completa para automatização do controle de estoque, controle de permissões, relatório de analytics e assistente de inteligência artificial
 
-##### Controle de Estoque
+#### Controle de Estoque
 
 O Controle de Estoque do Stocker oferece uma visão completa e em tempo real do seu inventário. Com ele, você pode adicionar, editar e remover produtos, além de monitorar quantidades e detalhes de cada produto em lotes. Essa funcionalidade simplifica a gestão de reposição, ajuda a evitar faltas ou excessos e otimiza a tomada de decisões estratégicas para o negócio da empresa.
 
@@ -169,7 +169,7 @@ O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, r
 
 ###### Chatbot disponível em todas páginas
 
-<img src="./images/stocker/chatbot-ai.jpeg" width="1000" height="500">
+<img src="./images/stocker/chatbot-ai.jpeg" width="500" height="250">
 
 #### Tecnologias utilizadas
 
@@ -187,22 +187,22 @@ O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, r
 * [FastAPI](https://fastapi.tiangolo.com/): Um framework web moderno e rápido para construir APIs com Python, com foco em alta performance e fácil uso para desenvolvedores.
 * [Google ADK (Agent Development Kit)](https://google.github.io/adk-docs/): Um kit de desenvolvimento que facilita a criação de agentes de IA (como chatbots e assistentes virtuais) para diversas plataformas.
 
-#### Contribuições Pessoais
+### Contribuições Pessoais
 
 Neste semestre, minha atuação como Product Owner foi aprofundada, reafirmando as responsabilidades anteriores, mas com um foco maior na negociação de requisitos com o cliente. Desta vez, fui o único PO da turma a questionar ativamente funcionalidades que não se alinhavam aos objetivos do projeto, propondo e defendendo soluções alternativas que agregaram maior valor e eficácia para os desafios apresentados. Na reta final do projeto, fiquei encarregado de construir o manual do usuário, um documento que detalha de forma clara e concisa todas as funcionalidades do sistema, orientando os usuários sobre como interagir com a aplicação, desde o primeiro acesso até a execução das tarefas mais complexas.
 
 Como desenvolvedor, assumi a liderança técnica da equipe, conduzindo o processo de seleção das melhores tecnologias para solucionar os desafios do projeto. Participei ativamente de debates com colegas, visando definir a abordagem arquitetural mais adequada. Além disso, dediquei-tempo para orientar meus colegas de time na aplicação de boas práticas de programação e fui responsável por descrever detalhadamente as tarefas técnicas, garantindo clareza e alinhamento na execução. Com autonomia, fui responsável pelo desenvolvimento das funcionalidades de notificações do sistema, controle de permissões e o chatbot com inteligência artificial.
 
-#### Lições aprendidas
+### Lições aprendidas
 
 Como PO por dois semestres seguidos, percebi que estava colocando requsitos a mais no projeto simplesmente por capricho pessoal buscando aumentar a visibilidade do projeto e aplicar provas de conceito do que pela real necessidade de resolver o problema do cliente. Essa abordagem, em certa medida, mostrou-se desnecessária, pois demandava um tempo valioso que poderia ter sido melhor empregado no aprimoramento das funcionalidades que de fato importam para o produto e seu usuário final.
 Portanto, nas próximas oportunidades que tiver como PO, buscarei alinhar o máximo possível os requisitos do projeto com a real dor do cliente e o valor de negócio, focando na entrega de soluções essenciais e otimizando o tempo da equipe para garantir um produto verdadeiramente eficaz e de alta qualidade.
 
-#### Hard Skills Desenvolvidas
+### Hard Skills Desenvolvidas
 
 Minha experiência se aprofundou na criação e gestão de projetos monorepo, aprendendo a lidar com suas estruturas e diversas formas de comunicação entre as aplicações do projeto, seja via API REST ou por integração como biblioteca. Também pratiquei a realização de chamadas em tempo real entre aplicações utilizando o protocolo WebSocket. Adquiri proficiência em como utilizar e versionar bancos de dados por meio de migrations com um ORM, e como armazenar e recuperar arquivos estáticos na web usando serviços de armazenamento de objetos como o S3 da AWS. No campo da Inteligência Artificial, tive uma introdução à construção de agentes, focando em otimização de consumo de tokens e estruturação de prompts com foco em contexto. Na parte de desenvolvimento frontend, compreendi os conceitos de CSR (Client-Side Rendering), SSR (Server-Side Rendering) e SSG (Static Site Generation), aplicando-os com Next.js.
 
-#### Soft Skills Desenvolvidas
+### Soft Skills Desenvolvidas
 
 Enquanto no semestre passado eu tendia a exagerar em ouvir, quase nunca expressando uma opinião mais firme para evitar conflitos, neste período busquei impor-me mais na tomada de decisões. Aprendi a defender minhas perspectivas de forma construtiva, argumentando com base em dados e experiência, e a confrontar ideias divergentes de maneira respeitosa, visando sempre o melhor resultado para o projeto e a equipe.
 
@@ -213,7 +213,7 @@ Além disso, minha habilidade de liderança foi aprofundada, visto que passei a 
 ### Chronos
 
 <div align="center">
-  <img src="https://i.imgur.com/chEqFGA.png" width="60%" />
+  <img src="https://i.imgur.com/chEqFGA.png" width="40%" />
 </div>
 
 3º Semestre - 1/2025
@@ -224,7 +224,7 @@ Cliente: [Necto Systems](https://necto.com.br/pt/)
 
 O Chronos é uma aplicação web moderna que simplifica o gerenciamento de ponto online. Ele oferece funcionalidades completas para o controle da jornada de trabalho, permitindo registro online, cálculo automático de horas trabalhadas e extras, além de gestão de ausências com fluxos de aprovação e relatórios detalhados. Com sua interface intuitiva e acesso remoto, o Chronos automatiza processos manuais, reduz erros, garante conformidade com a legislação trabalhista e oferece visibilidade total sobre a jornada dos funcionários.
 
-#### Principais funcionalidades
+### Principais funcionalidades
 
 A aplicação conta com as seguintes funcionalidades principais: gerenciamento de jornada de trabalho, portal de solicitações de colaboradores, banco de horas e sistema de notificações.
 
@@ -260,7 +260,7 @@ A funcionalidade de Banco de Horas do nosso Chronos permite que a empresa gerenc
 
 <Imagem>
 
-#### Tecnologias utilizadas
+### Tecnologias utilizadas
 
 [Java Spring Boot](https://spring.io/projects/spring-boot): utilizado no desenvolvimento do servidor backend.
 
@@ -278,19 +278,19 @@ A funcionalidade de Banco de Horas do nosso Chronos permite que a empresa gerenc
 
 [Jasper](https://www.jasper.ai/): ferramente para criação de arquivos PDF de forma dinâmica.
 
-#### Contribuições pessoais
+### Contribuições pessoais
 
 Atuando como Scrum Team e desenvolvedor full-stack, meu foco principal foi o backend, onde tive um papel fundamental. Fui responsável pelo planejamento e concepção do banco de dados híbrido, pela implementação do processamento e mensageria em fila, e por todo o sistema de notificação via e-mail. Também desenvolvi o fluxo de processos do banco de horas e a autenticação de usuário por meio de código OTP. No frontend, atuei na refatoração de páginas para melhorar a UX (experiência do usuário) e elaborei a interface do calendário de gerenciamento de férias.
 
-#### Lições aprendidas
+### Lições aprendidas
 
 Como membro do Scrum Team, percebi o quão crucial é um bom planejamento de projeto. No início de cada sprint, essa etapa era frequentemente negligenciada, o que acarretava em desalinhamento das expectativas, retrabalho constante e atrasos significativos nas entregas. Para corrigir isso, é fundamental o Scrum Team começar a investir mais tempo na fase de planejamento, garantindo que o Product Backlog esteja bem refinado, as histórias de usuário sejam claras e detalhadas, e que o time tenha um entendimento comum e realista do escopo e dos objetivos de cada sprint.
 
-#### Hard Skills Desenvolvidas
+### Hard Skills Desenvolvidas
 
 Minha maior aquisição técnica foi, sem dúvida, no campo da arquitetura de software. No projeto, tive a oportunidade de aplicar conceitos avançados como Arquitetura Limpa (Clean Architecture) e Domain-Driven Design (DDD) para a modelagem do código. Isso me proporcionou um entendimento profundo sobre como orientar o desenvolvimento ao domínio do negócio e a crucial importância de proteger as regras de negócio das camadas externas da aplicação, garantindo maior manutenibilidade e flexibilidade. 
 Pude me aprofundar no desenvolvimento de processamento assíncrono, explorando como lidar com operações que não precisam ser concluídas instantaneamente, o que é crucial para construir aplicações mais responsivas e eficientes. Isso incluiu trabalhar com filas de mensagens, tarefas em background com RabbitMQ para comunicação em tempo real, garantindo que o sistema pudesse lidar com múltiplas requisições sem travar a interface do usuário.
 
-#### Soft Skills Desenvolvidas
+### Soft Skills Desenvolvidas
 
 Uma das minhas dificuldades na minha carreira sempre foi explicar conceitos técnicos complexos para pessoas leigas. Portanto, ao longo do projeto trabalhei ativamente para superar isso, focando em simplificar a linguagem e utilizando analogias e exemplos práticos, e adaptar a comunicação ao nível de entendimento do meu público, a fim de garantir que a mensagem seja clara e acessível a todos  independentemente de seu background técnico. Dessa forma, não apenas melhorei minha habilidade de comunicação e colaboração, mas ajudei os colegas a compreenderem melhor os desafios técnicos, facilitando a tomada de decisões em equipe e acelerando o desenvolvimento de funcionalidades complexas.
