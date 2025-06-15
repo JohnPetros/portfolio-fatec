@@ -20,6 +20,10 @@ Estou sempre em busca de novos desafios que me permitam aplicar e expandir minha
 
 ### Smart Farming
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/smart-farming/9e2739b3ad5c0cac7be52154cabcf3d1e873a6b5/src/ui/static/images/logo.svg" width="60%" />
+</div>
+
 1º Semestre - 1/2024
 
 Cliente: [Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net)
@@ -37,35 +41,33 @@ O aplicativo foi estruturado em três funcionalidades principais para atender ao
 
 A seção de Gerenciamento de Sensores oferece ao usuário controle total sobre os dados. É possível visualizar, editar e deletar informações captadas automaticamente pelos sensores ou inseri-las manualmente. Há também a opção de importar dados via arquivo CSV. Para uma análise aprofundada, os dados de umidade do ar (%), umidade do solo (%), temperatura (°C) e volume de água (mL) podem ser visualizados em um dashboard interativo contendo quatro gráficos.
 
-##### Página de gráficos referente aos sensores
-
-<img src="./images/smart-farming/sensors-records-dashboard-page.png" width="700" height="500">
-
-##### Página de gráficos referente a dados de checklist
-
-<img src="./images/smart-farming/checklist-records-form.png" width="1000" height="500">
-
-##### Formulário de registro coletado pelos sensores de forma manual
-
-<IMAGEM>
-
-##### Gerenciamento de Checklist
+###### Gerenciamento de Checklist
 
 No Gerenciamento de Checklist, o usuário tem a flexibilidade de registrar novos dados através de um formulário interno, bem como editar, deletar e importar informações via arquivo CSV. Todos os registros podem ser facilmente visualizados em uma tabela paginada, facilitando a navegação e a consulta.
-
-<IMAGEM>
 
 ##### Gerenciamento de Plantas
 
 Por fim, no Gerenciamento de Plantas, o usuário pode administrar todas as plantas da estufa. É possível criar novos registros, editá-los, desativá-los quando necessário e visualizar a lista completa de plantas cadastradas.
 
-<IMAGEM>
+###### Página que exibe o último dado coletado pelos sensores
 
-#### Arquitetura do Projeto
+<img src="./images/smart-farming/last-sensors-record-page.png" width="1000" height="500">
 
-<IMAGEM>
+###### Página de gráficos referente aos sensores
 
-O diagrama acima ilustra a arquitetura do sistema. Nele, dados de sensores da estufa são inicialmente armazenados em um MicroSD e, em seguida, enviados via requisições POST para o Backend da aplicação. O Frontend, acessível por administradores e outros usuários, permite a visualização desses dados em um Dashboard interativo, o registro de informações via formulário (incluindo checklists), e interage bidirecionalmente com o Backend para buscar e enviar dados. O Backend, por sua vez, é responsável por processar as requisições do Frontend e salvar/recuperar todas as informações do banco de dados MySQL, consolidando o fluxo de dados do sensor ao usuário final.
+<img src="./images/smart-farming/sensors-records-dashboard-page.png" width="1000" height="500">
+
+###### Página de gráficos referente a dados de checklist
+
+<img src="./images/smart-farming/checklist-records-form.png" width="1000" height="500">
+
+###### Página de exibição de dados coletados pelos sensores
+
+<img src="./images/smart-farming/sensors-records-table-page.png" width="1000" height="500">
+
+###### Formulário de registro coletado pelos sensores de forma manual
+
+<img src="./images/smart-farming/sensors-records-table-page.png" width="1000" height="500">
 
 #### Tecnologias utilizadas
 
@@ -110,11 +112,13 @@ Além disso, melhorei minha habilidade de comunicação principalmente no tocant
 
 ### Stocker
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="60%" />
+</div>
+
 1º Semestre - 2/2024
 
 Cliente: [Claúdio Etevino de Lima - Professor da Fatec](https://buscatextual.cnpq.br/buscatextual/visualizacv.do)
-
-<Imagem>
 
 O Stocker é uma aplicação web moderna, projetada para revolucionar o gerenciamento de estoque. Ele oferece funcionalidades completas para o controle de produtos, permitindo a adição, edição e remoção de itens com facilidade. Com o Stocker, você obtém visualização e acompanhamento em tempo real das quantidades e detalhes do seu inventário, substituindo métodos manuais por uma solução tecnológica altamente eficiente. Sua interface intuitiva possibilita o monitoramento do estoque em qualquer tipo de negócio, otimizando a gestão de reposição e capacitando decisões estratégicas mais assertivas.
 
@@ -200,6 +204,10 @@ Enquanto no semestre passado eu tendia a exagerar em ouvir, quase nunca expressa
 Além disso, minha habilidade de liderança foi aprofundada, visto que passei a equilibrar a escuta ativa com a firmeza necessária para guiar o time, inclusive na gestão de desempenho, cobrando um rendimento mais alinhado às expectativas dos integrantes que estavam abaixo. Isso garantiu que as decisões fossem tomadas de forma mais assertiva e eficaz, impulsionando significativamente o progresso do projeto.
 
 ### Chronos
+
+<div align="center">
+  <img src="https://i.imgur.com/chEqFGA.png" width="60%" />
+</div>
 
 3º Semestre - 1/2025
 
