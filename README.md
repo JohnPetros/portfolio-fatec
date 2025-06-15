@@ -26,7 +26,8 @@ Estou sempre em busca de novos desafios que me permitam aplicar e expandir minha
 
 1º Semestre - 1/2024
 
-Cliente: [Faculdade de Tecnologia de São José dos Campos](https://fatecsjc-prd.azurewebsites.net)
+Cliente: [Alfred Makoto Kabayama - Professor da Fatec](https://www.linkedin.com/in/alfred-makoto-kabayama-0aa93757/)
+
 
 O Smart Farming é uma aplicação web desenvolvida para auxiliar o monitoramento de estufa inteligente mantida pela Fatec de São José dos Campos. Seu objetivo é simplificar a gestão, fornecendo ferramentas para a coleta e visualização de dados de sensores (como temperatura, umidade e pH), a execução de check-lists de manutenção, a geração de relatórios detalhados e o controle de acesso administrativo. Isso permite uma gestão mais eficiente e automatizada do ambiente agrícola controlado.
 
@@ -67,7 +68,7 @@ Por fim, no Gerenciamento de Plantas, o usuário pode administrar todas as plant
 
 ###### Formulário de registro coletado pelos sensores de forma manual
 
-<img src="./images/smart-farming/sensors-records-table-page.png" width="1000" height="500">
+<img src="./images/smart-farming/checklist-records-dashboard-page.png" width="1000" height="500">
 
 #### Tecnologias utilizadas
 
@@ -110,15 +111,19 @@ Para completar, tive a oportunidade de usar HTMX e HyperScript, ferramentas muit
 Antes eu possuía muita dificuldade em trabalhar em equipe, pois eu, tendo comumente mais experiência que os demais, preferia fazer a maior parte, somente do meu jeito e sem deixar os outros colaborarem, por achar que não poderiam fazer da mesma forma que eu. Porém, aprendi que isso é totalmente errado, pois é melhor ter uma equipe engajada e capacitada, onde todos contribuem com suas perspectivas e habilidades, do que uma única pessoa sobrecarregada e com uma visão limitada, que impede o crescimento coletivo e a inovação do projeto. Portanto, a partir desse semestre procurei ativamente em ouvir mais as pessoas, deixar que elas expressassem suas ideias, delegar responsabilidades e, principalmente, confiar no potencial de cada um para buscar soluções e aprender com os próprios desafios. Percebi que o resultado final não só se tornou mais rico e diversificado, mas o ambiente de trabalho ficou muito mais colaborativo e produtivo para todos.
 Além disso, melhorei minha habilidade de comunicação principalmente no tocante a apresentar ideias e convencer pessoas. Aprendi a estruturar meus argumentos de forma mais lógica, a antecipar objeções e a adaptar minha mensagem ao público, o que me permitiu influenciar decisões e garantir que minhas propostas fossem não só compreendidas, mas também aceitas e implementadas com sucesso.
 
+---
+
 ### Stocker
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="60%" />
 </div>
 
+<br />
+
 1º Semestre - 2/2024
 
-Cliente: [Claúdio Etevino de Lima - Professor da Fatec](https://buscatextual.cnpq.br/buscatextual/visualizacv.do)
+Cliente: [Claúdio Etevino de Lima - Professor da Fatec](https://www.linkedin.com/in/claudio-lima-86175522/)
 
 O Stocker é uma aplicação web moderna, projetada para revolucionar o gerenciamento de estoque. Ele oferece funcionalidades completas para o controle de produtos, permitindo a adição, edição e remoção de itens com facilidade. Com o Stocker, você obtém visualização e acompanhamento em tempo real das quantidades e detalhes do seu inventário, substituindo métodos manuais por uma solução tecnológica altamente eficiente. Sua interface intuitiva possibilita o monitoramento do estoque em qualquer tipo de negócio, otimizando a gestão de reposição e capacitando decisões estratégicas mais assertivas.
 
@@ -132,15 +137,15 @@ O Controle de Estoque do Stocker oferece uma visão completa e em tempo real do 
 
 ###### Página de gerenciamento de produtos
 
-<Imagem>
+<img src="./images/stocker/products-page.jpeg" width="1000" height="500">
 
 ###### Página de Gerenciamento de estoque em lote
 
-<Imagem>
+<img src="./images/stocker/inventory-page.jpeg" width="1000" height="500">
 
 ###### Aba de notifcações de estoque baixo ou lotes próximos da data da validade
 
-<Imagem>
+<img src="./images/stocker/notifications-modal.jpeg" width="1000" height="500">
 
 ##### Controle de Permissões de usuário 
 
@@ -148,15 +153,15 @@ O Controle de Permissões do Stocker permite que o usuário defina exatamente qu
 
 ###### Página de controle de permissões
 
-<Imagem>
+<img src="./images/stocker/inventory-page.jpeg" width="1000" height="500">
 
-##### Controle de Permissões de usuário 
+##### Relatório de Analytics
 
 O Relatório de Analytics do Stocker oferece uma visão aprofundada do desempenho do seu negócio. Com ele, você acessa dados e métricas essenciais apresentados de forma clara e intuitiva, permitindo que você identifique tendências, avalie resultados e tome decisões estratégicas embasadas em informações concretas. Além disso, possui uma IA integrada que consegue gerar relatórios mensais a respeito do andamento do estoque para obtenção de insights para o negócio.
 
 ###### Página de dashboard
 
-<Imagem>
+<img src="./images/stocker/dashboard-page.jpeg" width="1000" height="500">
 
 #### Chatbot Assistente de Inteligência Artificial
 
@@ -164,7 +169,7 @@ O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, r
 
 ###### Chatbot disponível em todas páginas
 
-<Imagem>
+<img src="./images/stocker/chatbot-ai.jpeg" width="1000" height="500">
 
 #### Tecnologias utilizadas
 
@@ -202,6 +207,8 @@ Minha experiência se aprofundou na criação e gestão de projetos monorepo, ap
 Enquanto no semestre passado eu tendia a exagerar em ouvir, quase nunca expressando uma opinião mais firme para evitar conflitos, neste período busquei impor-me mais na tomada de decisões. Aprendi a defender minhas perspectivas de forma construtiva, argumentando com base em dados e experiência, e a confrontar ideias divergentes de maneira respeitosa, visando sempre o melhor resultado para o projeto e a equipe.
 
 Além disso, minha habilidade de liderança foi aprofundada, visto que passei a equilibrar a escuta ativa com a firmeza necessária para guiar o time, inclusive na gestão de desempenho, cobrando um rendimento mais alinhado às expectativas dos integrantes que estavam abaixo. Isso garantiu que as decisões fossem tomadas de forma mais assertiva e eficaz, impulsionando significativamente o progresso do projeto.
+
+---
 
 ### Chronos
 
