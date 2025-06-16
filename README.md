@@ -174,7 +174,7 @@ Neste semestre, aprendi duas lições cruciais: a primeira é que trabalhar em e
 ### Stocker
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="40%" />
+  <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="25%" />
 </div>
 
 1º Semestre - 2/2024
@@ -277,13 +277,13 @@ O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, r
 
 ---
 
-image.png
-
 ### Chronos
 
 <div align="center">
   <img src="./images/chronos/chronos-logo.png" width="40%" />
 </div>
+
+<br />
 
 3º Semestre - 1/2025
 
