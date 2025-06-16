@@ -2,6 +2,34 @@
 
 Este portfólio apresenta projetos desenvolvidos em grupo, aplicando a [Metodologia Scrum](https://www.scrum.org/resources/what-scrum-module) na Fatec - São José dos Campos. Nossos clientes foram tanto empresas parceiras quanto professores internos, proporcionando uma experiência prática e alinhada às demandas do mercado.
 
+## Sumário
+
+* [**Sobre Mim**](#sobre-mim)
+    * [Meus Conhecimentos](#sobre-mim)
+    * [Contatos](#sobre-mim)
+* [**Meus Projetos**](#projetos)
+    * [**1º Semestre (1/2024) - Smart Farming**](#smart-farming)
+        * [Principais Funcionalidades](#principais-funcionalidades)
+        * [Tecnologias Utilizadas](#tecnologias-utilizadas)
+        * [Contribuições Pessoais](#contribuições-pessoais)
+        * [Lições Aprendidas](#lições-aprendidas)
+        * [Hard Skills Desenvolvidas](#hard-skills-desenvolvidas)
+        * [Soft Skills Desenvolvidas](#soft-skills-desenvolvidas)
+    * [**1º Semestre (2/2024) - Stocker**](#stocker)
+        * [Principais Funcionalidades](#principais-funcionalidades-1)
+        * [Tecnologias Utilizadas](#tecnologias-utilizadas-1)
+        * [Contribuições Pessoais](#contribuições-pessoais-1)
+        * [Lições Aprendidas](#lições-aprendidas-1)
+        * [Hard Skills Desenvolvidas](#hard-skills-desenvolvidas-1)
+        * [Soft Skills Desenvolvidas](#soft-skills-desenvolvidas-1)
+    * [**3º Semestre (1/2025) - Chronos**](#chronos)
+        * [Principais Funcionalidades](#principais-funcionalidades-2)
+        * [Tecnologias Utilizadas](#tecnologias-utilizadas-2)
+        * [Contribuições Pessoais](#contribuições-pessoais-2)
+        * [Lições Aprendidas](#lições-aprendidas-2)
+        * [Hard Skills Desenvolvidas](#hard-skills-desenvolvidas-2)
+        * [Soft Skills Desenvolvidas](#soft-skills-desenvolvidas-2)
+
 ## Sobre mim
 
 Técnico em Desenvolvimento de Sistemas na Etec - Professora Ilza Nascimento Pintus, graduando em Desenvolvimento de Software Multiplataforma na FATEC São José dos Campos e atualmente desenvolvedor Full Stack estagiário pela [Design Líquido](https://www.designliquido.com.br/).
@@ -116,7 +144,7 @@ Além disso, melhorei minha habilidade de comunicação principalmente no tocant
 ### Stocker
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="60%" />
+  <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="40%" />
 </div>
 
 <br />
@@ -167,9 +195,6 @@ O Relatório de Analytics do Stocker oferece uma visão aprofundada do desempenh
 
 O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, respondemdo dúvidas internas, guiar em processos e procedimentos da empresa, e ajudar na resolução rápida de problemas rotineiros. Isso libera os colaboradores de tarefas repetitivas, permitindo que se concentrem em atividades mais estratégicas e melhorem a produtividade geral da equipe.
 
-###### Chatbot disponível em todas páginas
-
-<img src="./images/stocker/chatbot-ai.jpeg" width="500" height="250">
 
 #### Tecnologias utilizadas
 
@@ -213,7 +238,7 @@ Além disso, minha habilidade de liderança foi aprofundada, visto que passei a 
 ### Chronos
 
 <div align="center">
-  <img src="https://i.imgur.com/chEqFGA.png" width="40%" />
+  <img src="https://i.imgur.com/chEqFGA.png" width="20%" />
 </div>
 
 3º Semestre - 1/2025
