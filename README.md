@@ -232,17 +232,17 @@ A aplicação conta com as seguintes funcionalidades principais: gerenciamento d
 
 A funcionalidade de Jornada permite que o usuário como gerente configure para cada colaborador um horário de trabalho flexível e uma escala de folgas mensal, com o registro de ponto feito eletronicamente. Também, pode-se cadastrar novos colaboradores e visualizar o histórico detalhado das batidas de ponto do seu setor ao longo do tempo.
 
-###### Página de escala de folgas
-
-<Imagem>
-
 ###### Página de batidade ponto
 
-<Imagem>
+<img src="./images/chronos/time-punch-page.jpeg" width="1000" height="500">
+
+###### Página de escala de folgas
+
+<img src="./images/chronos/day-off-schedule-page.jpeg" width="1000" height="500">
 
 ###### Página de histórico de pontos
 
-<Imagem>
+<img src="./images/chronos/collaboration-sector-history.jpeg" width="1000" height="500">
 
 ##### Portal de solicitações
 
@@ -250,7 +250,7 @@ O Portal de Solicitações de Colaboradores oferece um ambiente centralizado e i
 
 ###### Página de portal de solicitações
 
-<Imagem>
+<img src="./images/chronos/solicitations-page.jpeg" width="1000" height="500">
 
 ###### Banco de Horas
 
@@ -258,7 +258,7 @@ A funcionalidade de Banco de Horas do nosso Chronos permite que a empresa gerenc
 
 ###### Página de banco de horas
 
-<Imagem>
+<img src="./images/chronos/hour-bank-page.jpeg" width="1000" height="500">
 
 ### Tecnologias utilizadas
 
