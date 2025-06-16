@@ -171,7 +171,7 @@ O Stocker é uma aplicação web moderna, projetada para revolucionar o gerencia
 
 O Stocker oferece uma solução completa para automatização do controle de estoque, controle de permissões, relatório de analytics e assistente de inteligência artificial.
 
-##### Controle de Estoque
+#### Controle de Estoque
 
 O Controle de Estoque do Stocker oferece uma visão completa e em tempo real do seu inventário. Com ele, você pode adicionar, editar e remover produtos, além de monitorar quantidades e detalhes de cada produto em lotes. Essa funcionalidade simplifica a gestão de reposição, ajuda a evitar faltas ou excessos e otimiza a tomada de decisões estratégicas para o negócio da empresa.
 
@@ -193,7 +193,7 @@ O Controle de Estoque do Stocker oferece uma visão completa e em tempo real do 
   <img src="./images/stocker/notifications-modal.jpeg" width="1000" height="500" alt="Modal de notificações de estoque baixo ou lotes próximos da validade">
 </details>
 
-##### Controle de Permissões de usuário 
+#### Controle de Permissões de usuário 
 
 O Controle de Permissões do Stocker permite que o usuário defina exatamente quem pode acessar o quê dentro da plataforma. Com ele, o usuário configura diferentes níveis de acesso para seus colaboradores, garantindo que cada um veja e manipule apenas as informações e funcionalidades relevantes para suas tarefas. Isso aumenta a segurança dos dados e a eficiência operacional, evitando acessos indevidos e simplificando a gestão da equipe.
 
@@ -203,7 +203,7 @@ O Controle de Permissões do Stocker permite que o usuário defina exatamente qu
   <img src="./images/stocker/inventory-page.jpeg" width="1000" height="500" alt="Página de controle de permissões de usuário">
 </details>
 
-##### Relatório de Analytics
+#### Relatório de Analytics
 
 O Relatório de Analytics do Stocker oferece uma visão aprofundada do desempenho do seu negócio. Com ele, você acessa dados e métricas essenciais apresentados de forma clara e intuitiva, permitindo que você identifique tendências, avalie resultados e tome decisões estratégicas embasadas em informações concretas. Além disso, possui uma IA integrada que consegue gerar relatórios mensais a respeito do andamento do estoque para obtenção de insights para o negócio.
 
@@ -213,7 +213,7 @@ O Relatório de Analytics do Stocker oferece uma visão aprofundada do desempenh
   <img src="./images/stocker/dashboard-page.jpeg" width="1000" height="500" alt="Página de dashboard com relatório de analytics">
 </details>
 
-##### Chatbot Assistente de Inteligência Artificial
+#### Chatbot Assistente de Inteligência Artificial
 
 O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, respondendo dúvidas internas, guiar em processos e procedimentos da empresa, e ajudar na resolução rápida de problemas rotineiros. Isso libera os colaboradores de tarefas repetitivas, permitindo que se concentrem em atividades mais estratégicas e melhorem a produtividade geral da equipe.
 
@@ -259,14 +259,12 @@ Além disso, minha habilidade de liderança foi aprofundada, visto que passei a 
 ### Chronos
 
 <div align="center">
-  <img src="https://i.imgur.com/chEqFGA.png" width="30%" />
+  <img src="https://i.imgur.com/chEqFGA.png" width="25%" />
 </div>
 
 3º Semestre - 1/2025
 
 Cliente: [Necto Systems](https://necto.com.br/pt/)
-
-<Imagem>
 
 O Chronos é uma aplicação web moderna que simplifica o gerenciamento de ponto online. Ele oferece funcionalidades completas para o controle da jornada de trabalho, permitindo registro online, cálculo automático de horas trabalhadas e extras, além de gestão de ausências com fluxos de aprovação e relatórios detalhados. Com sua interface intuitiva e acesso remoto, o Chronos automatiza processos manuais, reduz erros, garante conformidade com a legislação trabalhista e oferece visibilidade total sobre a jornada dos funcionários.
 
@@ -274,11 +272,11 @@ O Chronos é uma aplicação web moderna que simplifica o gerenciamento de ponto
 
 A aplicação conta com as seguintes funcionalidades principais: gerenciamento de jornada de trabalho, portal de solicitações de colaboradores, banco de horas e sistema de notificações.
 
-##### Gerenciamento de Jornada de Trabalho
+#### Gerenciamento de Jornada de Trabalho
 
 A funcionalidade de Jornada permite que o usuário como gerente configure para cada colaborador um horário de trabalho flexível e uma escala de folgas mensal, com o registro de ponto feito eletronicamente. Também, pode-se cadastrar novos colaboradores e visualizar o histórico detalhado das batidas de ponto do seu setor ao longo do tempo.
 
-##### Página de batidade ponto
+#### Página de batidade ponto
 
 <details>
   <summary><b>Página de batida de ponto</b></summary>
@@ -286,7 +284,7 @@ A funcionalidade de Jornada permite que o usuário como gerente configure para c
   <img src="./images/chronos/time-punch-page.jpeg" width="1000" height="500" alt="Página de registro de ponto">
 </details>
 
-##### Página de escala de folgas
+#### Página de escala de folgas
 
 <details>
   <summary><b>Página de escala de folgas</b></summary>
@@ -294,7 +292,7 @@ A funcionalidade de Jornada permite que o usuário como gerente configure para c
   <img src="./images/chronos/day-off-schedule-page.jpeg" width="1000" height="500" alt="Página de agendamento de folgas">
 </details>
 
-##### Página de histórico de pontos
+#### Página de histórico de pontos
 
 <details>
   <summary><b>Página de histórico de pontos</b></summary>
@@ -302,11 +300,11 @@ A funcionalidade de Jornada permite que o usuário como gerente configure para c
   <img src="./images/chronos/collaboration-sector-history.jpeg" width="1000" height="500" alt="Página de histórico de pontos do setor de colaboração">
 </details>
 
-##### Portal de solicitações
+#### Portal de solicitações
 
 O Portal de Solicitações de Colaboradores oferece um ambiente centralizado e intuitivo para que seus funcionários gerenciem suas próprias demandas. Através dele, é possível abrir e acompanhar solicitações como férias, abono de falta, reajuste de escala e outros pedidos, tudo de forma digital e simplificada, agilizando processos e reduzindo a burocracia para a equipe de RH.
 
-##### Página de portal de solicitações
+#### Página de portal de solicitações
 
 <details>
   <summary><b>Página do portal de solicitações</b></summary>
@@ -314,11 +312,11 @@ O Portal de Solicitações de Colaboradores oferece um ambiente centralizado e i
   <img src="./images/chronos/solicitations-page.jpeg" width="1000" height="500" alt="Página do portal de solicitações de colaboradores">
 </details>
 
-##### Banco de Horas
+#### Banco de Horas
 
 A funcionalidade de Banco de Horas do nosso Chronos permite que a empresa gerencie de forma eficiente as horas extras e faltas compensáveis dos colaboradores. Com ela, é possível acumular e compensar horas trabalhadas, garantindo flexibilidade para a equipe e conformidade com a legislação trabalhista, além de proporcionar um controle claro e automatizado do saldo de horas de cada funcionário.
 
-##### Página de banco de horas
+#### Página de banco de horas
 
 <details>
   <summary><b>Página de banco de horas</b></summary>
