@@ -299,23 +299,17 @@ A aplicação conta com as seguintes funcionalidades principais: gerenciamento d
 
 A funcionalidade de Jornada permite que o usuário como gerente configure para cada colaborador um horário de trabalho flexível e uma escala de folgas mensal, com o registro de ponto feito eletronicamente. Também, pode-se cadastrar novos colaboradores e visualizar o histórico detalhado das batidas de ponto do seu setor ao longo do tempo.
 
-#### Página de batidade ponto
-
 <details>
   <summary><b>Página de batida de ponto</b></summary>
   <br>
   <img src="./images/chronos/time-punch-page.jpeg" width="1000" height="500" alt="Página de registro de ponto">
 </details>
 
-#### Página de escala de folgas
-
 <details>
   <summary><b>Página de escala de folgas</b></summary>
   <br>
   <img src="./images/chronos/day-off-schedule-page.jpeg" width="1000" height="500" alt="Página de agendamento de folgas">
 </details>
-
-#### Página de histórico de pontos
 
 <details>
   <summary><b>Página de histórico de pontos</b></summary>
@@ -327,8 +321,6 @@ A funcionalidade de Jornada permite que o usuário como gerente configure para c
 
 O Portal de Solicitações de Colaboradores oferece um ambiente centralizado e intuitivo para que seus funcionários gerenciem suas próprias demandas. Através dele, é possível abrir e acompanhar solicitações como férias, abono de falta, reajuste de escala e outros pedidos, tudo de forma digital e simplificada, agilizando processos e reduzindo a burocracia para a equipe de RH.
 
-#### Página de portal de solicitações
-
 <details>
   <summary><b>Página do portal de solicitações</b></summary>
   <br>
@@ -338,8 +330,6 @@ O Portal de Solicitações de Colaboradores oferece um ambiente centralizado e i
 #### Banco de Horas
 
 A funcionalidade de Banco de Horas do nosso Chronos permite que a empresa gerencie de forma eficiente as horas extras e faltas compensáveis dos colaboradores. Com ela, é possível acumular e compensar horas trabalhadas, garantindo flexibilidade para a equipe e conformidade com a legislação trabalhista, além de proporcionar um controle claro e automatizado do saldo de horas de cada funcionário.
-
-#### Página de banco de horas
 
 <details>
   <summary><b>Página de banco de horas</b></summary>
