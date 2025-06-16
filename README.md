@@ -10,27 +10,39 @@ Este portfólio apresenta projetos desenvolvidos em grupo, aplicando a [Metodolo
     * [Meus Conhecimentos](#sobre-mim)
     * [Contatos](#sobre-mim)
 * [**Meus Projetos**](#projetos)
-    * [**1º Semestre (1/2024) - Smart Farming**](#smart-farming)
-        * [Principais Funcionalidades](#principais-funcionalidades)
-        * [Tecnologias Utilizadas](#tecnologias-utilizadas)
-        * [Contribuições Pessoais](#contribuições-pessoais)
-        * [Lições Aprendidas](#lições-aprendidas)
-        * [Hard Skills Desenvolvidas](#hard-skills-desenvolvidas)
-        * [Soft Skills Desenvolvidas](#soft-skills-desenvolvidas)
-    * [**1º Semestre (2/2024) - Stocker**](#stocker)
-        * [Principais Funcionalidades](#principais-funcionalidades-1)
-        * [Tecnologias Utilizadas](#tecnologias-utilizadas-1)
-        * [Contribuições Pessoais](#contribuições-pessoais-1)
-        * [Lições Aprendidas](#lições-aprendidas-1)
-        * [Hard Skills Desenvolvidas](#hard-skills-desenvolvidas-1)
-        * [Soft Skills Desenvolvidas](#soft-skills-desenvolvidas-1)
-    * [**3º Semestre (1/2025) - Chronos**](#chronos)
-        * [Principais Funcionalidades](#principais-funcionalidades-2)
-        * [Tecnologias Utilizadas](#tecnologias-utilizadas-2)
-        * [Contribuições Pessoais](#contribuições-pessoais-2)
-        * [Lições Aprendidas](#lições-aprendidas-2)
-        * [Hard Skills Desenvolvidas](#hard-skills-desenvolvidas-2)
-        * [Soft Skills Desenvolvidas](#soft-skills-desenvolvidas-2)
+    <details>
+        <summary><b>1º Semestre (1/2024) - Smart Farming</b></summary>
+        <ul>
+            <li><a href="#principais-funcionalidades">Principais Funcionalidades</a></li>
+            <li><a href="#tecnologias-utilizadas">Tecnologias Utilizadas</a></li>
+            <li><a href="#contribuições-pessoais">Contribuições Pessoais</a></li>
+            <li><a href="#lições-aprendidas">Lições Aprendidas</a></li>
+            <li><a href="#hard-skills-desenvolvidas">Hard Skills Desenvolvidas</a></li>
+            <li><a href="#soft-skills-desenvolvidas">Soft Skills Desenvolvidas</a></li>
+        </ul>
+    </details>
+    <details>
+        <summary><b>1º Semestre (2/2024) - Stocker</b></summary>
+        <ul>
+            <li><a href="#principais-funcionalidades-1">Principais Funcionalidades</a></li>
+            <li><a href="#tecnologias-utilizadas-1">Tecnologias Utilizadas</a></li>
+            <li><a href="#contribuições-pessoais-1">Contribuições Pessoais</a></li>
+            <li><a href="#lições-aprendidas-1">Lições Aprendidas</a></li>
+            <li><a href="#hard-skills-desenvolvidas-1">Hard Skills Desenvolvidas</a></li>
+            <li><a href="#soft-skills-desenvolvidas-1">Soft Skills Desenvolvidas</a></li>
+        </ul>
+    </details>
+    <details>
+        <summary><b>3º Semestre (1/2025) - Chronos</b></summary>
+        <ul>
+            <li><a href="#principais-funcionalidades-2">Principais Funcionalidades</a></li>
+            <li><a href="#tecnologias-utilizadas-2">Tecnologias Utilizadas</a></li>
+            <li><a href="#contribuições-pessoais-2">Contribuições Pessoais</a></li>
+            <li><a href="#lições-aprendidas-2">Lições Aprendidas</a></li>
+            <li><a href="#hard-skills-desenvolvidas-2">Hard Skills Desenvolvidas</a></li>
+            <li><a href="#soft-skills-desenvolvidas-2">Soft Skills Desenvolvidas</a></li>
+        </ul>
+    </details>
 
 ## Sobre mim
 
@@ -265,10 +277,12 @@ O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, r
 
 ---
 
+image.png
+
 ### Chronos
 
 <div align="center">
-  <img src="https://i.imgur.com/chEqFGA.png" width="25%" />
+  <img src="https://i.imgur.com/chEqFGA.png" width="10%" />
 </div>
 
 3º Semestre - 1/2025
