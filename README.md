@@ -167,7 +167,11 @@ O Controle de Estoque do Stocker oferece uma visão completa e em tempo real do 
 
 ###### Página de gerenciamento de produtos
 
-<img src="./images/stocker/products-page.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Gerenciamento de Plantas</b></summary>
+  <br>
+  <img src="./images/stocker/products-page.jpeg" width="1000" height="500" alt="">
+</details>
 
 ###### Página de Gerenciamento de estoque em lote
 
