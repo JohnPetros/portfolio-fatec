@@ -143,10 +143,13 @@ Neste semestre, aprendi duas lições cruciais: a primeira é que trabalhar em e
 
 ### Hard Skills Desenvolvidas
 
-Este semestre pude finalmente aplicar, de forma profissional, Python na construção de um sistema web monolítico. Consegui consolidar meus conhecimentos sobre separação de responsabilidades, um conceito arquitetural básico que me ajudou a criar um código mais limpo e fácil de manter.
-Aprendi que a containerização com Docker é uma ferramenta essencial para mim, pois garante que o ambiente de desenvolvimento seja eficiente e independentes das configurações de máquina. 
-Além disso, explorei ferramentas de infraestrutura da AWS, como o EC2 (Elastic Compute Cloud), que me permitiu provisionar e gerenciar máquinas virtuais na nuvem para hospedar a aplicação, e o RDS (Relational Database Service), que simplificou a configuração e manutenção do banco de dados relacional, automatizando tarefas como backups. Dessa forma, aprendi a construir um ambiente de produção robusto para uma aplicação web em Python e com load balancer, usando Gunicorn e Nginx. 
-Para completar, tive a oportunidade de usar HTMX e HyperScript, ferramentas muito pouco conhecidas no mercado, para criar atualizações rápidas em páginas HTML estáticas, sem a complexidade de grandes frameworks JavaScript. 
+<p>Este semestre pude finalmente aplicar, de forma profissional, Python na construção de um sistema web monolítico. Consegui consolidar meus conhecimentos sobre separação de responsabilidades, um conceito arquitetural básico que me ajudou a criar um código mais limpo e fácil de manter.</p>
+
+<p>Aprendi que a containerização com Docker é uma ferramenta essencial para mim, pois garante que o ambiente de desenvolvimento seja eficiente e independentes das configurações de máquina.</p>
+
+<p>Além disso, explorei ferramentas de infraestrutura da AWS, como o EC2 (Elastic Compute Cloud), que me permitiu provisionar e gerenciar máquinas virtuais na nuvem para hospedar a aplicação, e o RDS (Relational Database Service), que simplificou a configuração e manutenção do banco de dados relacional, automatizando tarefas como backups. Dessa forma, aprendi a construir um ambiente de produção robusto para uma aplicação web em Python e com load balancer, usando Gunicorn e Nginx.</p> 
+
+<p>Para completar, tive a oportunidade de usar HTMX e HyperScript, ferramentas muito pouco conhecidas no mercado, para criar atualizações rápidas em páginas HTML estáticas, sem a complexidade de grandes frameworks JavaScript. </p>
 
 ### Soft Skills Desenvolvidas
 
