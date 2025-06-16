@@ -2,7 +2,7 @@
 
 Este portfólio apresenta projetos desenvolvidos em grupo, aplicando a [Metodologia Scrum](https://www.scrum.org/resources/what-scrum-module) na Fatec - São José dos Campos. Nossos clientes foram tanto empresas parceiras quanto professores internos, proporcionando uma experiência prática e alinhada às demandas do mercado.
 
-<div align="center"><img src="https://avatars.githubusercontent.com/u/93893533?s=400&u=e705d6ae98002ea315b3fd984bc8de852978c983&v=4" width="50%"></div>
+<div align="center"><img src="https://avatars.githubusercontent.com/u/93893533?s=400&u=e705d6ae98002ea315b3fd984bc8de852978c983&v=4" width="40%"></div>
 
 ## Sumário
 
