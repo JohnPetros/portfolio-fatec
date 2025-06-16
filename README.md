@@ -54,6 +54,8 @@ Estou sempre em busca de novos desafios que me permitam aplicar e expandir minha
   <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/smart-farming/9e2739b3ad5c0cac7be52154cabcf3d1e873a6b5/src/ui/static/images/logo.svg" width="60%" />
 </div>
 
+<br />
+
 1º Semestre - 1/2024
 
 Cliente: [Alfred Makoto Kabayama - Professor da Fatec](https://www.linkedin.com/in/alfred-makoto-kabayama-0aa93757/)
@@ -72,7 +74,7 @@ O aplicativo foi estruturado em três funcionalidades principais para atender ao
 
 A seção de Gerenciamento de Sensores oferece ao usuário controle total sobre os dados. É possível visualizar, editar e deletar informações captadas automaticamente pelos sensores ou inseri-las manualmente. Há também a opção de importar dados via arquivo CSV. Para uma análise aprofundada, os dados de umidade do ar (%), umidade do solo (%), temperatura (°C) e volume de água (mL) podem ser visualizados em um dashboard interativo contendo quatro gráficos.
 
-###### Gerenciamento de Checklist
+##### Gerenciamento de Checklist
 
 No Gerenciamento de Checklist, o usuário tem a flexibilidade de registrar novos dados através de um formulário interno, bem como editar, deletar e importar informações via arquivo CSV. Todos os registros podem ser facilmente visualizados em uma tabela paginada, facilitando a navegação e a consulta.
 
@@ -80,25 +82,35 @@ No Gerenciamento de Checklist, o usuário tem a flexibilidade de registrar novos
 
 Por fim, no Gerenciamento de Plantas, o usuário pode administrar todas as plantas da estufa. É possível criar novos registros, editá-los, desativá-los quando necessário e visualizar a lista completa de plantas cadastradas.
 
-###### Página que exibe o último dado coletado pelos sensores
+<details>
+  <summary><b>Página que exibe o último dado coletado pelos sensores</b></summary>
+  <br>
+  <img src="./images/smart-farming/last-sensors-record-page.png" width="1000" height="500" alt="Página exibindo o último dado coletado pelos sensores">
+</details>
 
-<img src="./images/smart-farming/last-sensors-record-page.png" width="1000" height="500">
+<details>
+  <summary><b>Página de gráficos referente aos sensores</b></summary>
+  <br>
+  <img src="./images/smart-farming/sensors-records-dashboard-page.png" width="1000" height="500" alt="Dashboard com gráficos dos dados dos sensores">
+</details>
 
-###### Página de gráficos referente aos sensores
+<details>
+  <summary><b>Página de gráficos referente a dados de checklist</b></summary>
+  <br>
+  <img src="./images/smart-farming/checklist-records-form.png" width="1000" height="500" alt="Formulário de registro de dados de checklist">
+</details>
 
-<img src="./images/smart-farming/sensors-records-dashboard-page.png" width="1000" height="500">
+<details>
+  <summary><b>Página de exibição de dados coletados pelos sensores</b></summary>
+  <br>
+  <img src="./images/smart-farming/sensors-records-table-page.png" width="1000" height="500" alt="Tabela com dados coletados pelos sensores">
+</details>
 
-###### Página de gráficos referente a dados de checklist
-
-<img src="./images/smart-farming/checklist-records-form.png" width="1000" height="500">
-
-###### Página de exibição de dados coletados pelos sensores
-
-<img src="./images/smart-farming/sensors-records-table-page.png" width="1000" height="500">
-
-###### Formulário de registro coletado pelos sensores de forma manual
-
-<img src="./images/smart-farming/checklist-records-dashboard-page.png" width="1000" height="500">
+<details>
+  <summary><b>Formulário de registro coletado pelos sensores de forma manual</b></summary>
+  <br>
+  <img src="./images/smart-farming/checklist-records-dashboard-page.png" width="1000" height="500" alt="Dashboard de registros de checklist">
+</details>
 
 ### Tecnologias utilizadas
 
@@ -149,8 +161,6 @@ Além disso, melhorei minha habilidade de comunicação principalmente no tocant
   <img src="https://raw.githubusercontent.com/CtrI-Alt-Del/stocker/main/documentation/images/stockerlogo.jpeg" width="40%" />
 </div>
 
-<br />
-
 1º Semestre - 2/2024
 
 Cliente: [Claúdio Etevino de Lima - Professor da Fatec](https://www.linkedin.com/in/claudio-lima-86175522/)
@@ -159,50 +169,55 @@ O Stocker é uma aplicação web moderna, projetada para revolucionar o gerencia
 
 ### Principais funcionalidades
 
-O Stocker oferece uma solução completa para automatização do controle de estoque, controle de permissões, relatório de analytics e assistente de inteligência artificial
+O Stocker oferece uma solução completa para automatização do controle de estoque, controle de permissões, relatório de analytics e assistente de inteligência artificial.
 
-#### Controle de Estoque
+##### Controle de Estoque
 
 O Controle de Estoque do Stocker oferece uma visão completa e em tempo real do seu inventário. Com ele, você pode adicionar, editar e remover produtos, além de monitorar quantidades e detalhes de cada produto em lotes. Essa funcionalidade simplifica a gestão de reposição, ajuda a evitar faltas ou excessos e otimiza a tomada de decisões estratégicas para o negócio da empresa.
 
-###### Página de gerenciamento de produtos
-
 <details>
-  <summary><b>Gerenciamento de Plantas</b></summary>
-  <br>
-  <img src="./images/stocker/products-page.jpeg" width="1000" height="500" alt="">
+  <summary><b>Página de gerenciamento de produtos</b></summary>
+  <br>
+  <img src="./images/stocker/products-page.jpeg" width="1000" height="500" alt="Página de gerenciamento de produtos no Stocker">
 </details>
 
-###### Página de Gerenciamento de estoque em lote
+<details>
+  <summary><b>Página de Gerenciamento de estoque em lote</b></summary>
+  <br>
+  <img src="./images/stocker/inventory-page.jpeg" width="1000" height="500" alt="Página de gerenciamento de estoque em lote no Stocker">
+</details>
 
-<img src="./images/stocker/inventory-page.jpeg" width="1000" height="500">
-
-###### Aba de notifcações de estoque baixo ou lotes próximos da data da validade
-
-<img src="./images/stocker/notifications-modal.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Aba de notificações de estoque baixo ou lotes próximos da data da validade</b></summary>
+  <br>
+  <img src="./images/stocker/notifications-modal.jpeg" width="1000" height="500" alt="Modal de notificações de estoque baixo ou lotes próximos da validade">
+</details>
 
 ##### Controle de Permissões de usuário 
 
 O Controle de Permissões do Stocker permite que o usuário defina exatamente quem pode acessar o quê dentro da plataforma. Com ele, o usuário configura diferentes níveis de acesso para seus colaboradores, garantindo que cada um veja e manipule apenas as informações e funcionalidades relevantes para suas tarefas. Isso aumenta a segurança dos dados e a eficiência operacional, evitando acessos indevidos e simplificando a gestão da equipe.
 
-###### Página de controle de permissões
-
-<img src="./images/stocker/inventory-page.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Página de controle de permissões</b></summary>
+  <br>
+  <img src="./images/stocker/inventory-page.jpeg" width="1000" height="500" alt="Página de controle de permissões de usuário">
+</details>
 
 ##### Relatório de Analytics
 
 O Relatório de Analytics do Stocker oferece uma visão aprofundada do desempenho do seu negócio. Com ele, você acessa dados e métricas essenciais apresentados de forma clara e intuitiva, permitindo que você identifique tendências, avalie resultados e tome decisões estratégicas embasadas em informações concretas. Além disso, possui uma IA integrada que consegue gerar relatórios mensais a respeito do andamento do estoque para obtenção de insights para o negócio.
 
-###### Página de dashboard
+<details>
+  <summary><b>Página de dashboard</b></summary>
+  <br>
+  <img src="./images/stocker/dashboard-page.jpeg" width="1000" height="500" alt="Página de dashboard com relatório de analytics">
+</details>
 
-<img src="./images/stocker/dashboard-page.jpeg" width="1000" height="500">
+##### Chatbot Assistente de Inteligência Artificial
 
-#### Chatbot Assistente de Inteligência Artificial
+O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, respondendo dúvidas internas, guiar em processos e procedimentos da empresa, e ajudar na resolução rápida de problemas rotineiros. Isso libera os colaboradores de tarefas repetitivas, permitindo que se concentrem em atividades mais estratégicas e melhorem a produtividade geral da equipe.
 
-O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, respondemdo dúvidas internas, guiar em processos e procedimentos da empresa, e ajudar na resolução rápida de problemas rotineiros. Isso libera os colaboradores de tarefas repetitivas, permitindo que se concentrem em atividades mais estratégicas e melhorem a produtividade geral da equipe.
-
-
-#### Tecnologias utilizadas
+### Tecnologias utilizadas
 
 * [React](https://react.dev/): Biblioteca JavaScript para construção de interfaces de usuário dinâmicas e componentes reutilizáveis no frontend.
 * [TypeScript](https://www.typescriptlang.org/): Superset do JavaScript que adiciona tipagem estática, melhorando a qualidade e manutenibilidade do código.
@@ -263,33 +278,53 @@ A aplicação conta com as seguintes funcionalidades principais: gerenciamento d
 
 A funcionalidade de Jornada permite que o usuário como gerente configure para cada colaborador um horário de trabalho flexível e uma escala de folgas mensal, com o registro de ponto feito eletronicamente. Também, pode-se cadastrar novos colaboradores e visualizar o histórico detalhado das batidas de ponto do seu setor ao longo do tempo.
 
-###### Página de batidade ponto
+##### Página de batidade ponto
 
-<img src="./images/chronos/time-punch-page.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Página de batida de ponto</b></summary>
+  <br>
+  <img src="./images/chronos/time-punch-page.jpeg" width="1000" height="500" alt="Página de registro de ponto">
+</details>
 
-###### Página de escala de folgas
+##### Página de escala de folgas
 
-<img src="./images/chronos/day-off-schedule-page.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Página de escala de folgas</b></summary>
+  <br>
+  <img src="./images/chronos/day-off-schedule-page.jpeg" width="1000" height="500" alt="Página de agendamento de folgas">
+</details>
 
-###### Página de histórico de pontos
+##### Página de histórico de pontos
 
-<img src="./images/chronos/collaboration-sector-history.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Página de histórico de pontos</b></summary>
+  <br>
+  <img src="./images/chronos/collaboration-sector-history.jpeg" width="1000" height="500" alt="Página de histórico de pontos do setor de colaboração">
+</details>
 
 ##### Portal de solicitações
 
 O Portal de Solicitações de Colaboradores oferece um ambiente centralizado e intuitivo para que seus funcionários gerenciem suas próprias demandas. Através dele, é possível abrir e acompanhar solicitações como férias, abono de falta, reajuste de escala e outros pedidos, tudo de forma digital e simplificada, agilizando processos e reduzindo a burocracia para a equipe de RH.
 
-###### Página de portal de solicitações
+##### Página de portal de solicitações
 
-<img src="./images/chronos/solicitations-page.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Página do portal de solicitações</b></summary>
+  <br>
+  <img src="./images/chronos/solicitations-page.jpeg" width="1000" height="500" alt="Página do portal de solicitações de colaboradores">
+</details>
 
-###### Banco de Horas
+##### Banco de Horas
 
 A funcionalidade de Banco de Horas do nosso Chronos permite que a empresa gerencie de forma eficiente as horas extras e faltas compensáveis dos colaboradores. Com ela, é possível acumular e compensar horas trabalhadas, garantindo flexibilidade para a equipe e conformidade com a legislação trabalhista, além de proporcionar um controle claro e automatizado do saldo de horas de cada funcionário.
 
-###### Página de banco de horas
+##### Página de banco de horas
 
-<img src="./images/chronos/hour-bank-page.jpeg" width="1000" height="500">
+<details>
+  <summary><b>Página de banco de horas</b></summary>
+  <br>
+  <img src="./images/chronos/hour-bank-page.jpeg" width="1000" height="500" alt="Página de gerenciamento do banco de horas">
+</details>
 
 ### Tecnologias utilizadas
 
