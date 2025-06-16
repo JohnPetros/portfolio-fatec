@@ -240,7 +240,7 @@ Além disso, minha habilidade de liderança foi aprofundada, visto que passei a 
 ### Chronos
 
 <div align="center">
-  <img src="https://i.imgur.com/chEqFGA.png" width="20%" />
+  <img src="https://i.imgur.com/chEqFGA.png" width="30%" />
 </div>
 
 3º Semestre - 1/2025
