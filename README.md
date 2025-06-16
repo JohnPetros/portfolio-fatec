@@ -263,11 +263,11 @@ O Chatbot com IA integrada oferece suporte instantâneo para os funcionários, r
 
 ### Hard Skills Desenvolvidas
 
-<p>Minha experiência se aprofundou na criação e gestão de projetos **monorepo**, aprendendo a lidar com suas estruturas e diversas formas de comunicação entre as aplicações do projeto, seja via **API REST** ou por integração como biblioteca. Também pratiquei a realização de chamadas em tempo real entre aplicações utilizando o protocolo **WebSocket**.</p>
+<p>Minha experiência se aprofundou na criação e gestão de projetos monorepo, aprendendo a lidar com suas estruturas e diversas formas de comunicação entre as aplicações do projeto, seja via API REST ou por integração como biblioteca. Também pratiquei a realização de chamadas em tempo real entre aplicações utilizando o protocolo WebSocket.</p>
 
-<p>Adquiri proficiência em como utilizar e versionar bancos de dados por meio de **migrations** com um **ORM**, e como armazenar e recuperar arquivos estáticos na web usando serviços de armazenamento de objetos como o **S3 da AWS**. No campo da **Inteligência Artificial**, tive uma introdução à construção de agentes, focando em otimização de consumo de tokens e estruturação de **prompts com foco em contexto**.</p>
+<p>Adquiri proficiência em como utilizar e versionar bancos de dados por meio de migrations com um ORM, e como armazenar e recuperar arquivos estáticos na web usando serviços de armazenamento de objetos como o S3 da AWS. No campo da Inteligência Artificial, tive uma introdução à construção de agentes, focando em otimização de consumo de tokens e estruturação de prompts com foco em contexto.</p>
 
-<p>Na parte de desenvolvimento frontend, compreendi os conceitos de **CSR (Client-Side Rendering)**, **SSR (Server-Side Rendering)** e **SSG (Static Site Generation)**, aplicando-os com **Next.js**.</p>
+<p>Na parte de desenvolvimento frontend, compreendi os conceitos de CSR (Client-Side Rendering), SSR (Server-Side Rendering) e SSG (Static Site Generation), aplicando-os com Next.js.</p>
 
 ### Soft Skills Desenvolvidas
 
@@ -365,14 +365,14 @@ Como membro do Scrum Team, percebi o quão crucial é um bom planejamento de pro
 
 ### Hard Skills Desenvolvidas
 
-<p>Minha maior aquisição técnica foi, sem dúvida, no campo da **arquitetura de software**. No projeto, tive a oportunidade de aplicar conceitos avançados como **Arquitetura Limpa (Clean Architecture)** e **Domain-Driven Design (DDD)** para a modelagem do código.</p>
+<p>Minha maior aquisição técnica foi, sem dúvida, no campo da arquitetura de software. No projeto, tive a oportunidade de aplicar conceitos avançados como Arquitetura Limpa (Clean Architecture) e Domain-Driven Design (DDD) para a modelagem do código.</p>
 
 <p>Isso me proporcionou um entendimento profundo sobre como orientar o desenvolvimento ao domínio do negócio e a crucial importância de proteger as regras de negócio das camadas externas da aplicação, garantindo maior manutenibilidade e flexibilidade.</p>
 
-<p>Pude me aprofundar no desenvolvimento de **processamento assíncrono**, explorando como lidar com operações que não precisam ser concluídas instantaneamente, o que é crucial para construir aplicações mais responsivas e eficientes. Isso incluiu trabalhar com **filas de mensagens**, tarefas em background com **RabbitMQ** para comunicação em tempo real, garantindo que o sistema pudesse lidar com múltiplas requisições sem travar a interface do usuário.</p>
+<p>Pude me aprofundar no desenvolvimento de processamento assíncrono, explorando como lidar com operações que não precisam ser concluídas instantaneamente, o que é crucial para construir aplicações mais responsivas e eficientes. Isso incluiu trabalhar com filas de mensagens, tarefas em background com RabbitMQ para comunicação em tempo real, garantindo que o sistema pudesse lidar com múltiplas requisições sem travar a interface do usuário.</p>
 
 ### Soft Skills Desenvolvidas
 
-<p>Uma das minhas dificuldades na minha carreira sempre foi explicar **conceitos técnicos complexos** para pessoas leigas. Portanto, ao longo do projeto trabalhei ativamente para superar isso, focando em **simplificar a linguagem**, utilizando analogias e exemplos práticos, e adaptando a comunicação ao nível de entendimento do meu público. Meu objetivo era garantir que a mensagem fosse clara e acessível a todos, independentemente de seu background técnico.</p>
+<p>Uma das minhas dificuldades na minha carreira sempre foi explicar conceitos técnicos complexos para pessoas leigas. Portanto, ao longo do projeto trabalhei ativamente para superar isso, focando em simplificar a linguagem, utilizando analogias e exemplos práticos, e adaptando a comunicação ao nível de entendimento do meu público. Meu objetivo era garantir que a mensagem fosse clara e acessível a todos, independentemente de seu background técnico.</p>
 
 <p>Dessa forma, não apenas melhorei minha habilidade de comunicação e colaboração, mas também ajudei os colegas a compreenderem melhor os desafios técnicos, facilitando a tomada de decisões em equipe e acelerando o desenvolvimento de funcionalidades complexas.</p>
