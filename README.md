@@ -282,7 +282,7 @@ image.png
 ### Chronos
 
 <div align="center">
-  <img src="https://i.imgur.com/chEqFGA.png" width="10%" />
+  <img src="./images/chronos/chronos-logo.png" width="40%" />
 </div>
 
 3º Semestre - 1/2025
